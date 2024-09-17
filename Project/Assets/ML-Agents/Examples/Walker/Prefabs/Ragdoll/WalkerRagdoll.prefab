@@ -2188,7 +2188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BrainParameters:
-    VectorObservationSize: 28
+    VectorObservationSize: 27
     NumStackedVectorObservations: 1
     m_ActionSpec:
       m_NumContinuousActions: 39
@@ -2231,6 +2231,7 @@ MonoBehaviour:
   thighR: {fileID: 1471451120586602917}
   shinR: {fileID: 1141629522868234935}
   footR: {fileID: 7717884938372330209}
+  targetTransform: {fileID: 0}
 --- !u!114 &3599283675615088288
 MonoBehaviour:
   m_ObjectHideFlags: 0

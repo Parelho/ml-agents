@@ -193,10 +193,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -253,6 +283,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -270,10 +305,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -329,6 +394,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -407,10 +477,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -467,6 +567,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -483,6 +588,7 @@ GameObject:
   - component: {fileID: 781961358}
   - component: {fileID: 781961357}
   - component: {fileID: 781961356}
+  - component: {fileID: 781961359}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -540,6 +646,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &781961359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 781961355}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: debec124de3906c148311acf27ff4474, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pythonPath: /bin/python3
+  scriptPath: ./python/executa_perna.py
 --- !u!1001 &1079850865
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -552,10 +672,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -611,6 +761,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -703,13 +858,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1392866527}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.9659258, z: -0.2588191, w: 0}
-  m_LocalPosition: {x: 0.27, y: 2.6, z: -6.32}
+  m_LocalRotation: {x: 0.19616088, y: 0.4126005, z: -0.09147132, w: 0.8848247}
+  m_LocalPosition: {x: -4.833, y: 3.347, z: -10.528}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 30, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 25, y: 50, z: 0}
 --- !u!114 &1392866533
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -717,7 +872,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1392866527}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec40c70d5160b47cd8deaab79e24892c, type: 3}
   m_Name: 
@@ -737,10 +892,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -797,6 +982,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -814,10 +1004,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -874,6 +1094,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -891,10 +1116,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -951,6 +1206,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -968,10 +1228,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -1028,6 +1318,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1045,10 +1340,40 @@ PrefabInstance:
       propertyPath: m_Model
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -1104,6 +1429,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1187,14 +1517,48 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 654595228, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: targetTransform
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
       propertyPath: m_Model
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSpaceType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: 'm_BrainParameters.VectorActionSize.Array.data[0]'
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 654595229, guid: 84359146bf7af47e58c229d877e801d7, type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.m_NumContinuousActions
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5244869035268704883, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Target
       objectReference: {fileID: 0}
     - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
       propertyPath: m_Name
       value: PlatformDynamicTarget
+      objectReference: {fileID: 0}
+    - target: {fileID: 6713178126238440196, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6718791046026642300, guid: 84359146bf7af47e58c229d877e801d7,
         type: 3}
@@ -1250,6 +1614,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7885382887627851857, guid: 84359146bf7af47e58c229d877e801d7,
+        type: 3}
+      propertyPath: spawnRadius
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
